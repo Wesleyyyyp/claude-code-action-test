@@ -76,13 +76,13 @@ c.push(zh([
 c.push(label('第 3 段'));
 c.push(para([
   'Two weekly concepts show most clearly where the lens falls short. In Row 5, Goleman\'s (1998) empathy overlaps with Wong and Law\'s appraisal of others\' emotions, and both show that I missed how my colleague felt. Read through empathy, as in Appendix A, Row 5 suggests that this ability failed under time pressure. But the lens treats reading others as an ability I carry with me. In Row 4, also under real time pressure during a peak check-in, I used it on everyone. So pressure alone cannot explain why it was missing in Row 5. Comparing the two rows, what differed was what I put first. In Row 4, getting the guest checked in depended on calming the people involved, so their feelings were part of the problem. In Row 5, the problem was stopping a guest before they reached an occupied room, so I needed only facts from her. Goleman, however, also defines empathy as ',
-  ['"skill in treating people according to their emotional reactions" (p. [page])', true],
+  ['"skill in treating people according to their emotional reactions" (p. 95)', true],
   ', which the lens leaves out. By that half, I also failed in how I treated her, because I pressed her to explain again while she was already rattled, and she looked close to tears. ',
   ['Her feelings were not part of the problem I was solving, so they shaped neither what I noticed nor how I spoke to her.', true],
 ]));
 c.push(zh([
   '有兩個每週概念，最清楚地顯示出這個 lens 不足的地方。在第 5 列，Goleman（1998）的同理心和 Wong 與 Law 的「評估別人的情緒」有重疊，兩者都顯示我沒注意到同事的感受。用同理心來讀，就像 Appendix A 裡的寫法，第 5 列顯示這個能力在時間壓力下失效了。但這個 lens 把讀懂別人當成我隨身帶著的能力。在第 4 列，同樣是在尖峰入住時段、同樣有實際的時間壓力，我卻讀出了每一個人。所以光是壓力，解釋不了為什麼第 5 列少了這個能力。比較這兩列，不同的是我把什麼放在第一位。在第 4 列，讓客人入住取決於安撫在場的人，所以他們的感受是問題的一部分。在第 5 列，問題是在客人走到已有人住的房間前攔住他，所以我只需要從她那裡拿到事實。不過，Goleman 對同理心的定義還包括',
-  ['「依照別人的情緒反應來對待他們的技巧」（p. [頁碼]）', true],
+  ['「依照別人的情緒反應來對待他們的技巧」（p. 95）', true],
   '，而這是 lens 沒有涵蓋的。從這一半來看，我在對待她的方式上也失敗了，因為她已經很慌了，我還逼她再解釋一次，她看起來快哭了。',
   ['她的感受不屬於我正在解決的問題，所以既沒有影響我注意到什麼，也沒有影響我怎麼跟她說話。', true],
 ]));
@@ -122,7 +122,7 @@ c.push(table([900, 4600, 3526], [
   ['2', '改寫 Wong & Law 對 EI 的定義那句', '原句把 Wong & Law 自己的四個維度誤寫成 Mayer & Salovey 的定義（原文 p. 246）'],
   ['2', '刪掉 even when nothing was urgent，以及 not how urgent the situation was, but', '決定不談急迫，避免和第 1 段打架'],
   ['2', '新增 I listened to my colleagues\' reasons…', '解決第 1、2 段對 Row 1 的矛盾，也支撐優先事項的論點'],
-  ['3', 'Goleman 原句加引號和頁碼', '直接引用原文必須標示'],
+  ['3', 'Goleman 原句加引號和頁碼', '直接引用原文必須標示，已核對原文在 p. 95'],
   ['3', '段末新增一句', '把段落接回優先事項'],
   ['4', 'judgment 改成 judgement', '和 Appendix A 拼法一致'],
   ['5', '新增 Fleeson (2001) 兩句', '自己找的學術文獻（Credit 以上必要），說法已核對原文'],
@@ -130,7 +130,7 @@ c.push(table([900, 4600, 3526], [
 ]));
 
 c.push(label('她還要自己處理的事'));
-c.push(num('第 3 段 Goleman 的頁碼 p. [page] 要查原文填上'));
+c.push(num('Appendix A 第 5、6、7 列直接引用了 Goleman 的定義，也要加上引號和 (p. 95)，第 7 列的 states as 改成 defines as'));
 c.push(num('References 加上 Fleeson (2001) 和 Gross & John (2003)，Mayer & Salovey (1997) 沒讀過原文的話寫成 as cited in Wong & Law, 2002'));
 c.push(num('中文對照在交件前全部刪掉'));
 c.push(num('目前約 1,050 字，最後要刪到約 700 字'));
