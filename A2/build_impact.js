@@ -58,13 +58,13 @@ c.push(zh([
 c.push(label('第 1 段（Row 2）'));
 c.push(para([
   ['Row 2 shows that I can deliver service value to a guest while bypassing the link the chain depends on, which is employee capability. ', true],
-  'I was not my colleagues\' trainer, but as the more experienced person on the desk, I often guided newer colleagues on the job. When my new colleague froze, I took the complaint over, so the guest\'s frustration ended sooner and the duty manager was likely spared having to apologise and decide on compensation. My colleague watched a full resolution, but lost the practice of handling the complaint himself, the very situation that had frozen him. Hogreve et al. (2022) place leadership and employee development among the internal practices that start the service-profit chain, noting that these shape what employees are able to do, and so the service guests receive. My takeover entered the chain there, ',
+  'I was not my colleagues\' trainer, but as the more experienced person on the desk, I often guided newer colleagues on the job. When my new colleague froze, I took the complaint over, so the guest\'s frustration ended sooner and the duty manager was likely spared having to apologise and decide on compensation. My colleague watched a full resolution, but lost the practice of handling the complaint himself, the very situation that had frozen him. Hogreve et al. ', ['(2022, pp. 462, 464)', true], ' place leadership and employee development among the internal practices that start the service-profit chain, noting that these shape what employees are able to do, and so the service guests receive. My takeover entered the chain there, ',
   ['but delivered the service through me rather than through him.', true],
   ' My evidence stops at my colleague, however, as I do not know how he later handled complaints without me.',
 ]));
 c.push(zh([
   ['第 2 列顯示，我可以在繞過這條鏈所依賴的環節，也就是員工能力的情況下，為客人提供服務價值。', true],
-  '我不是同事的培訓者，但身為櫃台上較有經驗的人，我常常在工作中帶領較資淺的同事。新同事僵住時，我把客訴接了過來，所以客人的不滿較快結束，值班經理也很可能因此不用親自道歉和決定補償。同事看到了完整的處理過程，卻失去了自己處理客訴的練習，而那正是讓他僵住的情境。Hogreve 等人（2022）把領導和員工培養列為啟動服務利潤鏈的內部做法，並指出它們會影響員工能做到什麼，進而影響客人得到的服務。我的接手就是從這裡進入這條鏈的，',
+  '我不是同事的培訓者，但身為櫃台上較有經驗的人，我常常在工作中帶領較資淺的同事。新同事僵住時，我把客訴接了過來，所以客人的不滿較快結束，值班經理也很可能因此不用親自道歉和決定補償。同事看到了完整的處理過程，卻失去了自己處理客訴的練習，而那正是讓他僵住的情境。Hogreve 等人', ['（2022, pp. 462, 464）', true], '把領導和員工培養列為啟動服務利潤鏈的內部做法，並指出它們會影響員工能做到什麼，進而影響客人得到的服務。我的接手就是從這裡進入這條鏈的，',
   ['但服務是經由我、而不是經由他提供的。', true],
   '不過我的證據只到同事為止，因為我不知道他之後在我不在時是怎麼處理客訴的。',
 ]));
@@ -75,13 +75,13 @@ c.push(para([
   ['Row 4 shows that customer satisfaction can rise while employee satisfaction falls, which the chain does not predict. ', true],
   'Here I was not the most senior person present, as the supervisor on duty was questioning my new colleague in front of a waiting guest, so ',
   ['what I stepped into was the questioning, not the check-in, because the questioning would not get the room ready any faster.', true],
-  ' Since my colleague could already handle the check-in, she finished it herself once the questioning stopped. The guest, who had watched the questioning, wrote after check-out that although the room took a while, the staff were very proactive in helping. Behind that praise, being questioned in front of the guest had left my colleague overwhelmed, and when I checked on her afterwards, she told me she felt wronged. Hogreve et al. (2022) note that although the satisfaction mirror implies that employees\' feelings flow to customers, evidence finds employee satisfaction reaches customers mainly through the service delivered. So in Row 4, the guest\'s praise reflected the service my colleague delivered, not what she had paid to deliver it.',
+  ' Since my colleague could already handle the check-in, she finished it herself once the questioning stopped. The guest, who had watched the questioning, wrote after check-out that although the room took a while, the staff were very proactive in helping. Behind that praise, being questioned in front of the guest had left my colleague overwhelmed, and when I checked on her afterwards, she told me she felt wronged. Hogreve et al. ', ['(2022, p. 463)', true], ' note that although the satisfaction mirror implies that employees\' feelings flow to customers, evidence finds employee satisfaction reaches customers mainly through the service delivered. So in Row 4, the guest\'s praise reflected the service my colleague delivered, not what she had paid to deliver it.',
 ]));
 c.push(zh([
   ['第 4 列顯示，顧客滿意度可以在員工滿意度下降的同時上升，而這是服務利潤鏈沒有預測到的。', true],
   '這次我不是在場最資深的人，因為當班主管正在等候的客人面前質問我的新同事，所以',
   ['我介入的是那場質問，而不是入住手續，因為質問並不會讓房間更快準備好。', true],
-  '因為同事本來就能處理入住，質問停了之後，她就自己把入住辦完了。目睹那場質問的客人，退房後寫道，雖然房間等了一陣子，但員工非常主動地幫忙。在那則好評背後，當著客人的面被質問，已經讓同事不堪負荷；事後我去關心她時，她告訴我她覺得很委屈。Hogreve 等人（2022）指出，雖然滿意度鏡像認為員工的感受會流向客人，但實證研究發現，員工滿意度主要是透過所提供的服務影響顧客。所以在第 4 列，客人的好評反映的是同事提供的服務，而不是她為了提供這份服務所付出的代價。',
+  '因為同事本來就能處理入住，質問停了之後，她就自己把入住辦完了。目睹那場質問的客人，退房後寫道，雖然房間等了一陣子，但員工非常主動地幫忙。在那則好評背後，當著客人的面被質問，已經讓同事不堪負荷；事後我去關心她時，她告訴我她覺得很委屈。Hogreve 等人', ['（2022, p. 463）', true], '指出，雖然滿意度鏡像認為員工的感受會流向客人，但實證研究發現，員工滿意度主要是透過所提供的服務影響顧客。所以在第 4 列，客人的好評反映的是同事提供的服務，而不是她為了提供這份服務所付出的代價。',
 ]));
 
 // ---------- R1 ----------
@@ -89,12 +89,12 @@ c.push(label('第 3 段（Row 1）'));
 c.push(para([
   ['Row 1 shows the same link weakening over a longer period. ', true],
   'In Row 1, guests faced fewer parking disputes, but colleagues who did not fully agree had to ask questions they felt were intrusive, may not have felt safe to keep pushing back on me, and afterwards seemed reluctant to tell me what they thought. ',
-  ['Their experience worsened while the guest outcome improved, because the improvement came from the procedure rather than from how my colleagues felt. This fits Hogreve et al.\'s (2022) conclusion that the chain\'s effects are not universal but depend on the conditions around them. A guest outcome can therefore improve while the employee link beneath it weakens, and no guest would notice.', true],
+  ['Their experience worsened while the guest outcome improved, because the improvement came from the procedure rather than from how my colleagues felt. This fits Hogreve et al.\'s (2022, p. 469) observation that the chain\'s effects are not universal but depend on the conditions around them. A guest outcome can therefore improve while the employee link beneath it weakens, and no guest would notice.', true],
 ]));
 c.push(zh([
   ['第 1 列顯示，同樣的環節在更長的時間裡變弱了。', true],
   '在第 1 列，客人的停車糾紛變少了，但不完全同意的同事得去問他們覺得冒犯的問題，可能也覺得不夠安心、不敢繼續反駁我，事後似乎也不太願意告訴我他們真正的想法。',
-  ['他們的經驗變差了，客人的結果卻變好了，因為改善來自流程本身，而不是同事的感受。這符合 Hogreve 等人（2022）的結論，也就是服務利潤鏈的效果並非普遍成立，而是取決於周遭的條件。因此，客人的結果可以在底下的員工環節變弱的同時改善，而且沒有客人會察覺。', true],
+  ['他們的經驗變差了，客人的結果卻變好了，因為改善來自流程本身，而不是同事的感受。這符合 Hogreve 等人（2022, p. 469）的觀察，也就是服務利潤鏈的效果並非普遍成立，而是取決於周遭的條件。因此，客人的結果可以在底下的員工環節變弱的同時改善，而且沒有客人會察覺。', true],
 ]));
 
 // ---------- Conclusion ----------
@@ -115,11 +115,12 @@ c.push(table([1300, 4000, 3726], [
   ['Row 4', '首句改寫，點出 customer satisfaction 和 employee satisfaction 方向相反；修正「接手了質問」的語意；刪掉「我是想保護同事」和「主管的回饋沒有消失」', 'SPC 框架；語意更清楚；省字數'],
   ['Row 1', '從原本的跨列段落獨立出來，改寫成 SPC 反例', 'Row 1 是員工環節變弱、客人結果卻變好的最好證據'],
   ['原跨列段', 'Row 5 和 Row 7 刪除', 'R5 留給 Ethics；R7 不涉及 SPC 的員工到客人環節'],
+  ['Row 1、2、4', 'Hogreve 三處補上頁碼（p. 462, 463, 464, 469），Row 1 的 conclusion 改成 observation', '已對照 Hogreve 原文核對，說法正確'],
   ['結尾', '整段重寫，加入 interdependence 和這間飯店的 leadership success factor，改寫原本那句不通順的末句', 'rubric HD 要求'],
 ]));
 
 c.push(label('她還要處理的事'));
-c.push(num('Hogreve 原文還沒收到。第 1、2、3 段的 Hogreve 說法請對照原文確認，並盡量附頁碼（Structure v2 標的是 p. 463 和 p. 469）'));
+c.push(num('References 加上 Hogreve et al. (2022)，完整格式見對話，期刊名和卷號設成斜體'));
 c.push(num('Appendix A 第 4 列第 2 欄補上半句，例如 who completed the guest\'s check-in herself，和正文一致'));
 c.push(num('73 間房、每班兩人這兩個數字請再確認一次'));
 c.push(num('目前約 700 字，目標 600，最後刪字數時可以優先刪第 2 段的情境描述'));
